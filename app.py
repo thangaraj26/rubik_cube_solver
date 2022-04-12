@@ -49,4 +49,4 @@ def api_solve():
         return jsonify({"status":False})  
 
 if __name__ == "_main_":
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host='0.0.0.0', debug=False)
