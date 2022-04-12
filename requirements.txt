@@ -1,14 +1,17 @@
-click==8.1.2
-Flask==2.1.1
-future==0.16.0
-gunicorn==20.1.0
-importlib-metadata==4.11.3
-itsdangerous==2.1.2
-Jinja2==3.1.1
-MarkupSafe==2.1.1
-numpy==1.22.3
-opencv-python==4.5.5.64
-rubik-solver==0.2.0
-rubikscubetracker @ git+https://github.com/dwalton76/rubiks-cube-tracker.git@40f372982430ba8d7e4c9070bdb429e1ab0450ba
-Werkzeug==2.1.1
-zipp==3.8.0
+# ----------------------
+# Flask
+# ----------------------
+flask
+
+
+# ----------------------
+# Testing
+# ----------------------
+mock
+
+
+# ----------------------
+# Production Server
+# ----------------------
+gevent
+gunicorn
