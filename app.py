@@ -4,8 +4,10 @@ from rubik_solver import utils
 import numpy as np
 
 app = Flask(__name__)
-
-@app.route('/', methods = ['POST'])
+@app.route('/')
+def home():
+    return "app is working"
+@app.route('/detect', methods = ['POST'])
 def api_root():
     img = request.files['image']
     img.save(img.filename)
