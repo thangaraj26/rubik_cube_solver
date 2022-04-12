@@ -1,4 +1,4 @@
-#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3
+#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3.9
 # EASY-INSTALL-ENTRY-SCRIPT: 'rubik-solver==0.2.0','console_scripts','rubik_solver'
 import re
 import sys

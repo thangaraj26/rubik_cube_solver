@@ -14,7 +14,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.1
 MarkupSafe==2.1.1
 numpy==1.22.3
-opencv-python==4.5.5.64
+opencv-python-headless
 rubik-solver==0.2.0
 rubikscubetracker @ git+https://github.com/dwalton76/rubiks-cube-tracker.git@40f372982430ba8d7e4c9070bdb429e1ab0450ba
 Werkzeug==2.1.1

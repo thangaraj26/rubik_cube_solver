@@ -1,4 +1,4 @@
-#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3
+#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3.9
 
 # standard libraries
 import argparse

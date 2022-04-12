@@ -1,4 +1,4 @@
-#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3
+#!/Users/darkshadow/Projects/Rubik_api_server/bin/python3.9
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.16.0','console_scripts','futurize'
 import re
 import sys
